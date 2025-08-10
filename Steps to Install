@@ -1,0 +1,33 @@
+Prerequisites
+To install all the necessary tools on a Debian-based system (like Ubuntu or Kali Linux), run this command in your terminal:
+
+Bash
+
+sudo apt-get update && sudo apt-get install -y nmap curl gobuster subfinder figlet lolcat
+Installation
+To download the project from GitHub, use the following command. Remember to replace your-username with your actual GitHub username.
+
+Bash
+
+git clone https://github.com/your-username/DragonHunter.git
+Once the cloning is complete, navigate into the project directory:
+
+Bash
+
+cd DragonHunter
+Next, you need to make the script executable. This gives you permission to run it directly from your terminal.
+
+Bash
+
+chmod +x dragonhunter.sh
+🐲 Usage
+To run the DragonHunter script, simply provide the target URL as an argument.
+
+Bash
+
+./dragonhunter.sh <target_url>
+Example:
+
+Bash
+
+./dragonhunter.sh https://example.com
