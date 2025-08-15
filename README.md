@@ -1,7 +1,3 @@
-A README file is the first thing people see when they visit your project on GitHub. You should add it to the **root directory** of your repository. This ensures it's the main page people see when they open your project.
-
-Here is a full template you can copy and paste into a new file named `README.md`. It includes all the sections we discussed, such as a banner, features, getting started instructions, and more.
-
 -----
 
 # 🐉 DragonHunter: The Ultimate Bug Bounty Scanner 🐉
